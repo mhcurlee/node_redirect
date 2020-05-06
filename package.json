@@ -1,0 +1,19 @@
+{
+  "name": "node_redirect",
+  "version": "1.0.0",
+  "description": "Simple app to redirect http",
+  "main": "redirect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhcurlee/node_redirect.git"
+  },
+  "author": "Marvin Curlee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhcurlee/node_redirect/issues"
+  },
+  "homepage": "https://github.com/mhcurlee/node_redirect#readme"
+}
